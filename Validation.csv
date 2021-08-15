@@ -1,0 +1,71 @@
+﻿CompanyNumber,CompanyName,Rank,Source,expected_prediction
+06240773,ihs markit,33,Forbes,1
+06270876,Reckitt Benckiser Group,56,Forbes,1
+03165891,Compass Group,63,Forbes,1
+02746616,Relx Group,85,Forbes,1
+04222753,Diageo,98,Forbes,1
+09203334,Entocycle,1,Beauhorst,1
+07330525,MarketFinance,2,Beauhorst,1
+07054929,Tokamak Energy,3,Beauhorst,1
+01391256,Veolia,4,Beauhorst,1
+05513242,Magtec,5,Beauhorst,1
+07479524,Onfido,7,Beauhorst,1
+09990238,Infex Therapeutics,8,Beauhorst,1
+10202950,Exvastat,10,Beauhorst,1
+FC027914,Recycling Technologies,11,Beauhorst,1
+SC428761,Exscientia,12,Beauhorst,1
+04106751,Exemplas,13,Beauhorst,1
+11736799,Poseidon Plastics,14,Beauhorst,1
+09718234,Octopu.energy,,Own,1
+0884411,Revolut,,Own,1
+10958787,The Data City,,Own,1
+09361164,Tenzing PE,,Own,1
+00043520,Unilever,45,VisualCapitalist,1
+02672611,BAE Systems,33,ManagementToday,1
+CE000607,YellowDog,,Business-Live,1
+08781720,UltraLeap,,Business-Live,1
+09893012,Lettus Grow,,Business-Live,1
+00464176,Rio Tinto,42,ManagementToday,1
+06947854,Just Eat,49,ManagementToday,1
+SC320353,Renishaw,3,ManagementToday,1
+07098618,Ocado,4,ManagementToday,1
+00206132,Croda International,5,ManagementToday,1
+00992897,Bentley Motors,6,ManagementToday,1
+11253423,Derwent London,7,ManagementToday,1
+01206652,Halma,8,ManagementToday,1
+00596137,Great Portland Estates,32,ManagementToday,1
+04586941,QinetiQ Group,10,ManagementToday,1
+00594236,Johnson Matthey,11,ManagementToday,1
+00049855qRentokil Initial,,33,ManagementToday,1
+00596337,Spirax-Sarco Engineering,13,ManagementToday,1
+03720393,Experian Group,14,ManagementToday,1
+08013140,Cranswick,15,ManagementToday,1
+10986940,Bakkavor Group,16,ManagementToday,1
+FC024024,Rolls-Royce,17,ManagementToday,1
+08415302,Fever-tree Drinks,18,ManagementToday,1
+04366849,Royal Dutch Shell,19,ManagementToday,1
+02075885,Intertek,20,ManagementToday,1
+05807690,RELX,21,ManagementToday,1
+01371454,Oxford Instruments,26,ManagementToday,1
+04437266,McDonald’s Restaurants,23,ManagementToday,1
+04527146,BUPA,24,ManagementToday,1
+SC457129,1 Click Cleaning,,Own,0
+05552840,A & J Kitchens & Bathroom,,Own,0
+04719319,Aspect Maintenance,,Own,0
+05322479,4Delivery,,Own,0
+05710421,1st 4 Plumbings,,Own,0
+05396586,24 Hair and Beauty Salon,,Own,0
+10533405,Admire Hair & Beauty,,Own,0
+07390480,Yes Car Rental,,Own,0
+07145'29,Awash Laundry,,Own,0
+04345310,3A Manufacturing,,Own,0
+08544263,4 Your Home,,Own,0
+04750862,427 Textile Solutions,,Own,0
+08818126,ACP Textile,,Own,0
+SC522313,0800 Gas Services,,Own,0
+02431107,1st Auto Repairs,,Own,0
+SC448361,786 Auto Repairs,,Own,0
+11582608,Dishwashers Direct,,Own,0
+04491375,A & A Applicance Care,,Own,0
+11299658,A B Window Cleaning,,Own,0
+09014655,Filipino Grocery Store,,Own,0
